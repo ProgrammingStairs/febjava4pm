@@ -1,0 +1,17 @@
+Constructor
+-----------
+1. Constructor is a special member function.
+2. Name of constructor is same as class name.
+3. Constructor will be called automatically, when ever object of a class is created.
+4. Constructor does not return any value not even void.
+5. Initial work of constructor is to construct object.
+6. Constructor is reponsible to provide default initial values to variables.
+7. Constructor chaining is possible in java.
+8. Default copy constructor is absent in java.
+9. If you make private constructor inside any class then in that case we cannot create 
+   object of that class from outside or from any other class.
+10.Types of constructor in java:
+    a. Default constructor (No Argument constructor) 
+    b. Parameterized Constructor 
+    
+    Copy Constructor 
