@@ -1,0 +1,11 @@
+Functional programming : 
+Functional programming is a paradigm, which allows programming using expressions. Functional programming focus on what needs to be done rather than how it can be done. Functional programming includes : 
+
+1. Functional Interface
+2. Lambda expression
+3. Method Reference 
+    |-- Reference to an Instance methods
+    |-- Reference to a static method 
+    |-- Reference to a constructor
+4. Predicate
+    |-- It is mainly used for unit testing
